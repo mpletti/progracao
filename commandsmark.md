@@ -91,7 +91,7 @@
 
 #  Photos 
 
-![ ](./programacao/foto1.jpg)
+![ ](./foto1.jpg)
 
 
 
