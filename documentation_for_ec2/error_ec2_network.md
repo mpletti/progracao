@@ -26,4 +26,4 @@
 
 
 
-![](./foto1.jpg)
+![](./log_faile.png)
