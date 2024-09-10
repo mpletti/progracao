@@ -27,3 +27,15 @@
 
 
 ![](./log_faile.png)
+
+
+
+
+
+
+
+## Updates recorrentes viram...
+
+
+
+![](./icegif-194.gif)
